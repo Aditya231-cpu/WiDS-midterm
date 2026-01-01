@@ -1,3 +1,1 @@
-# TASK 2
-  ## Which XML tags were used to extract the headlines?
-###To extract headlines from the RSS feeds, the find("title") method was used on each <item> element. This means the <title> XML tag, nested within the <item> tag, was specifically targeted to retrieve the headline text
+
